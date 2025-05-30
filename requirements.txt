@@ -1,0 +1,6 @@
+#requirement libraries
+
+streamlit
+
+pyfiglet
+Pillow
